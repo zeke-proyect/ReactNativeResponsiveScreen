@@ -17,3 +17,5 @@ this is very basic
 
 # Note: 
 This project still needs some adjustments, such as making the item boxes smaller on mobile screens. It is only intended as a simple example to show how to create a responsive grid layout in React Native.
+
+carpeta TODOCSS/reactnative3/responsive/responsiveReact
