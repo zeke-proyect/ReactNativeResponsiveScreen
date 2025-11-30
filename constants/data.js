@@ -1,0 +1,92 @@
+export const DATA = [
+  {
+    id: 1,
+    title: "Item 1",
+    screen: "Screen1",
+    img: "https://placehold.co/55x55/ff595e/ffffff?text=1",
+  },
+  {
+    id: 2,
+    title: "Item 2",
+    screen: "Screen2",
+    img: "https://placehold.co/55x55/1982c4/ffffff?text=2",
+  },
+  {
+    id: 3,
+    title: "Item 3",
+    screen: "Screen3",
+    img: "https://placehold.co/55x55/6a4c93/ffffff?text=3",
+  },
+  {
+    id: 4,
+    title: "Item 4",
+    screen: "Screen4",
+    img: "https://placehold.co/55x55/8ac926/ffffff?text=4",
+  },
+  {
+    id: 5,
+    title: "Item 5",
+    screen: "Screen5",
+    img: "https://placehold.co/55x55/ffca3a/ffffff?text=5",
+  },
+  {
+    id: 6,
+    title: "Item 6",
+    screen: "Screen6",
+    img: "https://placehold.co/55x55/1982c4/ffffff?text=6",
+  },
+  {
+    id: 7,
+    title: "Item 7",
+    screen: "Screen7",
+    img: "https://placehold.co/55x55/6a4c93/ffffff?text=7",
+  },
+  {
+    id: 8,
+    title: "Item 8",
+    screen: "Screen8",
+    img: "https://placehold.co/55x55/8ac926/ffffff?text=8",
+  },
+  {
+    id: 9,
+    title: "Item 9",
+    screen: "Screen9",
+    img: "https://placehold.co/55x55/ffca3a/ffffff?text=9",
+  },
+  {
+    id: 10,
+    title: "Item 10",
+    screen: "Screen10",
+    img: "https://placehold.co/55x55/ff595e/ffffff?text=10",
+  },
+  {
+    id: 11,
+    title: "Item 11",
+    screen: "Screen11",
+    img: "https://placehold.co/55x55/1982c4/ffffff?text=11",
+  },
+  {
+    id: 12,
+    title: "Item 12",
+    screen: "Screen12",
+    img: "https://placehold.co/55x55/6a4c93/ffffff?text=12",
+  },
+  {
+    id: 13,
+    title: "Item 13",
+    screen: "Screen13",
+    img: "https://placehold.co/55x55/8ac926/ffffff?text=13",
+  },
+  {
+    id: 14,
+    title: "Item 14",
+    screen: "Screen14",
+    img: "https://placehold.co/55x55/ffca3a/ffffff?text=14",
+  },
+  {
+    id: 15,
+    title: "Item 15",
+    screen: "Screen15",
+    img: "https://placehold.co/55x55/ff595e/ffffff?text=15",
+  },
+];
